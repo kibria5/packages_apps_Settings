@@ -341,4 +341,7 @@
     <string name="show_qs_on_secure_keyguard_title">Quick settings</string>
     <string name="show_qs_on_secure_keyguard_summary">Allow toggling quick settings on secure lockscreen</string>
 
+    <!-- IME Space -->
+    <string name="navigation_bar_ime_space_title">IME space</string>
+    <string name="navigation_bar_ime_space_summary">Add space below keyboard when navigation hint is disabled</string>     
 </resources>
